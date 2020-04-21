@@ -1,0 +1,15 @@
+{
+  "name": "rest-typeorm-js-backend",
+  "version": "0.1.0",
+  "description": "A sample REST backend in Node and TypeORM written in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivos/rest-typeorm-js-backend.git"
+  },
+  "author": "Ivo Maixner",
+  "license": "Apache-2.0"
+}
