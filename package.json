@@ -15,7 +15,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "pg": "^8.0.2",
-    "typeorm": "^0.2.24"
+    "typeorm": "^0.2.25"
   },
   "devDependencies": {
     "snazzy": "^8.0.0",
